@@ -38,15 +38,6 @@ CS fundamentals         ██░░░░░░░░░░░░░░░░�
 
 
 
-## 📚 Learning
-https://cs50.harvard.edu/x
-
-https://www.freecodecamp.org
-
-https://www.theodinproject.com
-
-
-
 ```text
 Consistency > intensity.
 ```
