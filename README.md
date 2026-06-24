@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/nexzu-exe-ab60a9403/">
   <img src="https://img.shields.io/badge/🔗_LinkedIn-Nexzu.exe-0A66C2?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@TU_CANAL">
+<a href="https://www.youtube.com/@Nexzuexe">
   <img src="https://img.shields.io/badge/YouTube-Nexzu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 &nbsp;
