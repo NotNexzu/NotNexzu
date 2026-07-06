@@ -90,11 +90,11 @@
 ```text
 ┌──────────────────────────────┐  ┌─────────────────────────────────────────────────┐
 │                              │  │                                                 │
-│   🌐 Portfolio (V1)          |  |  🃏 TCGPlayer Reimagined                       |  
+│   🌐 Portfolio (V1)          |  |  🃏 TCGPlayer Reimagined                       |
 │                              │  │         (in process)                            │
 │   [HTML5] [CSS3]             │  │ 🔧 █░░░░░░░░░░░░░░░░░░░░ 1%                     |
-│                              │  │                                                 │ 
-│   First deployed site.       │  │  [HTML5] [CSS3] [Js] [vite] [nest js] [node js] |           │                              |  |                                                 |
+│                              │  │                                                 │
+│   First deployed site.       │  │  [HTML5] [CSS3] [Js] [vite] [nest js] [node js] |
 │   Foundation for v2.         │  │  Building...                                    │
 │                              │  │  cat working...                                 │
 │                              │  │  masive update coming soon!!                    │
