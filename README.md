@@ -92,7 +92,7 @@
 │                              │  │                                                 │
 │   🌐 Portfolio (V1)          |  |  🃏 TCGPlayer Reimagined                       |
 │                              │  │         (in process)                            │
-│   [HTML5] [CSS3]             │  │ 🔧 █░░░░░░░░░░░░░░░░░░░░ 1%                     |
+│   [HTML5] [CSS3]             │  │ 🔧 ██░░░░░░░░░░░░░░░░░░░░ 10%                    |
 │                              │  │                                                 │
 │   First deployed site.       │  │  [HTML5] [CSS3] [Js] [vite] [nest js] [node js] |
 │   Foundation for v2.         │  │  Building...                                    │
